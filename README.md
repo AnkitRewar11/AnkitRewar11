@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>🔭 Currently working on: Full-Stack Development projects.<br>🌱 Learning: Advanced React and cloud deployment.<br>🤝 Open to collaborate on: Web dev and open-source.<br>💬 Ask me about: JavaScript, React, or hackathons!<br>🙌 Need help with: DevOps and Kubernetes.<br>🎉 Fun fact: I love Pav Bhaji and hackathons!
+Hi there 👋<br>🔭 Currently working on: Full-Stack Development projects.<br>🌱 Learning: Advanced React and cloud deployment.<br>🤝 Open to collaborate on: Web dev and open-source.<br>💬 Ask me about: JavaScript, React, or hackathons!<br>🙌 Need help with: DevOps and Kubernetes.
 
 
 ## 🌐 Socials:
