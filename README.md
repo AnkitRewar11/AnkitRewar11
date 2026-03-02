@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there 👋<br>🔭 Currently working on: Full-Stack Development projects.<br>🌱 Learning: Advanced React and cloud deployment.<br>🤝 Open to collaborate on: Web dev and open-source.<br>💬 Ask me about: JavaScript, React, or hackathons!<br>🙌 Need help with: DevOps and Kubernetes.
 
+## 🏆 Achievement
+
 <div><a href="https://cloud.layer5.io/user/b8bf3050-14a6-45ab-a7e8-963975882165?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
 
