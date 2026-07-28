@@ -62,91 +62,28 @@
 
   <br/><br/>
 
-  <!-- Architecture & AI Specializations -->
+<!-- Architecture & Infrastructure Badges -->
   <sub><b>ARCHITECTURE & INFRASTRUCTURE</b></sub>
-  <br/>
-  <code>System Design (HLD/LLD)</code> • <code>Microservices</code> • <code>gRPC</code> • <code>tRPC</code> • <code>CI/CD</code>
-  
+  <br/><br/>
+  <img src="https://img.shields.io/badge/System_Design_(HLD%2FLLD)-00599C?style=flat-square&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-2563EB?style=flat-square&logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+
   <br/><br/>
 
+  <!-- Generative AI & Vector Systems Badges -->
   <sub><b>GENERATIVE AI & VECTOR SYSTEMS</b></sub>
-  <br/>
-  <code>RAG Pipelines</code> • <code>AI Agents</code> • <code>LangChain</code> • <code>LlamaIndex</code> • <code>Vector DBs</code> • <code>OpenAI API</code>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-121011?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_DBs-132A4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-#### 🤖 AI Website Builder
-> *Natural-language-to-production app generation platform*
-
-Architected an engine to transform dynamic natural language prompts into live sandboxed code environments.
-* Integrated isolated **E2B Sandboxes** for safe runtime code preview and execution.
-* Serverless workflow orchestration powered by **Inngest** to handle long-running generative tasks.
-* Type-safe RPC communication built on **tRPC** and **Next.js**.
-
-`Next.js` · `tRPC` · `Prisma` · `Inngest` · `E2B Sandboxes`
-
-[**View Repository →**](https://github.com/Ankitrewar11)
-
----
-
-#### ⚡ ChatConnect
-> *Real-time video & audio signaling platform*
-
-High-concurrency streaming and chat system engineered for low-latency session management.
-* Distributed pub/sub architecture built using **Redis** to sync state across nodes.
-* Ultra-low latency peer connection negotiation powered by **WebRTC** and **Socket.io**.
-* Graceful multi-device session handover and automatic connection recovery.
-
-`WebRTC` · `Socket.io` · `Redis` · `Node.js`
-
-[**View Repository →**](https://github.com/Ankitrewar11)
-
----
-
-#### 🎰 Sports Betting Microservices Platform
-> *High-throughput real-time backend engine*
-
-Scalable microservices ecosystem designed for real-time sports odds ingestion and transactional integrity.
-* Event-driven architecture streaming live sports feeds via **Apache Kafka** pipelines.
-* ACID-compliant wallet transactions with custom fraud prevention controls.
-* High-concurrency microservices written in **Golang** with low-latency caching on **Redis**.
-
-`Golang` · `Apache Kafka` · `PostgreSQL` · `Redis`
-
-[**View Repository →**](https://github.com/Ankitrewar11)
-
----
-
-#### 🍸 Drinked App
-> *Location-aware social discovery network*
-
-Mobile platform providing real-time feeds, event management, and geo-proximity search.
-* Cross-platform mobile client engineered with **React Native**.
-* Geo-spatial indexing and proximity-based query evaluation in **MongoDB**.
-* Real-time feed generation and event synchronization powered by **WebSockets**.
-
-`React Native` · `Node.js` · `MongoDB` · `WebSockets`
-
-[**View Repository →**](https://github.com/Ankitrewar11)
-
----
-
-#### 🎯 Smart Attendance System
-> *Biometric identification with analytical risk forecasting*
-
-Computer vision platform engineered for real-time facial recognition attendance logging paired with an analytics dashboard for detecting at-risk students early.
-* High-performance computer vision pipeline using **FastAPI** and **OpenCV**.
-* Interactive dashboard for institutional reporting and automated alert management built on **React.js**.
-
-`FastAPI` · `Python` · `OpenCV` · `React.js`
-
-[**View Repository →**](https://github.com/Ankitrewar11)
-
----
 
 ### 📊 GitHub Analytics
 
