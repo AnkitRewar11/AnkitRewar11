@@ -4,21 +4,21 @@
   <h3>Software Architect & Full-Stack Engineer</h3>
 
   <p>
-    Specializing in <b>System Design (HLD/LLD)</b>, <b>Distributed Cloud-Native Ecosystems</b>, and <b>Generative AI Infrastructure</b>.
+    Specializing in <b>System Design (HLD/LLD)</b>, <b>Distributed Cloud-Native Systems</b>, and <b>Generative AI Infrastructure</b>.
   </p>
 
   <!-- Social Badges -->
-  <a href="https://github.com/ankitrewar">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/ankitrewar">
+  <a href="https://linkedin.com/in/ankitrewar11/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/AnkitRewar18">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://medium.com/@rewarankit18">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://stackoverflow.com/users/22531173">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
   </a>
 
 </div>
@@ -29,9 +29,9 @@
 
 ### 🏗️ About Me
 
-* 🏗️ **Distributed Systems**: Design and ship scalable systems end-to-end — from HLD/LLD decisions to production deployment.
+* 🏗️ **Distributed Systems**: Design and ship scalable systems end-to-end from HLD/LLD decisions to production deployment.
 * 🔭 **Currently Building**: Enterprise IoT platform with event-driven microservices at **DSTP Technology**.
-* 🧠 **Deep Focus**: Generative AI integration — RAG pipelines, AI agents, and vector-search-backed architectures.
+* 🧠 **Deep Focus**: Generative AI integration RAG pipelines, AI agents, and vector-search-backed architectures.
 * 🌐 **CNCF Open Source**: Active contributor (**Layer5 / Meshery**), working at the intersection of infrastructure and product.
 * 🌱 **Sharpening**: High-concurrency system design, multi-agent orchestration, and advanced multi-cloud cost optimization.
 * 🤝 **Open to Collaborate**: Microservices architecture, RAG/LLM products, and CNCF ecosystem projects.
@@ -53,112 +53,98 @@
 
 ### 💻 Tech Stack
 
-<table>
-  <tr>
-    <td width="20%"><b>Core Architecture</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/System%20Design-HLD%2FLLD-00599C?style=flat-square" />
-      <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=architecture&logoColor=white" />
-      <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Event--Driven-Kafka-231F20?style=flat-square&logo=apachekafka" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / LLM Engineering</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/RAG%20Pipelines-121011?style=flat-square" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/AI%20Agents-412991?style=flat-square" />
-      <img src="https://img.shields.io/badge/Vector%20Databases-Pinecone%2FWeaviate-132A4A?style=flat-square" />
-      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/ShadCN%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Realtime</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/tRPC-2563EB?style=flat-square&logo=trpc&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases & ORM</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Neon%20DB-00E599?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Infrastructure</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Core Icons Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,ts,js,py,cpp,java,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,aws,gcp,terraform,nextjs,react,tailwind,nodejs,express,graphql&perline=11" alt="Tech Stack Icons" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Architecture & AI Specializations -->
+  <sub><b>ARCHITECTURE & INFRASTRUCTURE</b></sub>
+  <br/>
+  <code>System Design (HLD/LLD)</code> • <code>Microservices</code> • <code>gRPC</code> • <code>tRPC</code> • <code>CI/CD</code>
+  
+  <br/><br/>
+
+  <sub><b>GENERATIVE AI & VECTOR SYSTEMS</b></sub>
+  <br/>
+  <code>RAG Pipelines</code> • <code>AI Agents</code> • <code>LangChain</code> • <code>LlamaIndex</code> • <code>Vector DBs</code> • <code>OpenAI API</code>
+
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🤖 **AI Website Builder**
-> *Natural-language-to-production-app generation engine.*
-* **Tech**: Next.js, tRPC, E2B Sandboxes, Inngest, Prisma ORM
-* **Key Features**: Executable code preview inside isolated serverless sandboxes; background orchestration via Inngest for scalable workflow execution.
+#### 🤖 AI Website Builder
+> *Natural-language-to-production app generation platform*
 
-#### ⚡ **ChatConnect**
-> *Low-latency, real-time video & chat infrastructure.*
-* **Tech**: WebRTC, Socket.io, Redis, Node.js
-* **Key Features**: Optimized signaling mechanism using Redis pub/sub; smooth multi-device session handling and real-time state sync.
+Architected an engine to transform dynamic natural language prompts into live sandboxed code environments.
+* Integrated isolated **E2B Sandboxes** for safe runtime code preview and execution.
+* Serverless workflow orchestration powered by **Inngest** to handle long-running generative tasks.
+* Type-safe RPC communication built on **tRPC** and **Next.js**.
 
-#### 🎰 **High-Concurrency Sports Betting Platform**
-> *Scalable microservices engine for live sports data and transactions.*
-* **Tech**: Golang, Kafka, PostgreSQL, Redis, Microservices
-* **Key Features**: Designed high-throughput wallet transaction processing, fraud prevention validation logic, and live odds processing via Kafka streams.
+`Next.js` · `tRPC` · `Prisma` · `Inngest` · `E2B Sandboxes`
 
-#### 📱 **Drinked App**
-> *Social discovery platform with real-time feeds and location services.*
-* **Tech**: React Native, Node.js, MongoDB, WebSockets
-* **Key Features**: Built for rapid scale-out with dynamic feed generation, event orchestration, and geo-location search.
+[**View Repository →**](https://github.com/Ankitrewar11)
 
-#### 📊 **Smart Attendance System**
-> *Biometric automated tracking with predictive analytics.*
-* **Tech**: FastAPI, Python, React.js, OpenCV
-* **Key Features**: Automated facial recognition backend coupled with analytical dashboards for real-time risk assessment.
+---
+
+#### ⚡ ChatConnect
+> *Real-time video & audio signaling platform*
+
+High-concurrency streaming and chat system engineered for low-latency session management.
+* Distributed pub/sub architecture built using **Redis** to sync state across nodes.
+* Ultra-low latency peer connection negotiation powered by **WebRTC** and **Socket.io**.
+* Graceful multi-device session handover and automatic connection recovery.
+
+`WebRTC` · `Socket.io` · `Redis` · `Node.js`
+
+[**View Repository →**](https://github.com/Ankitrewar11)
+
+---
+
+#### 🎰 Sports Betting Microservices Platform
+> *High-throughput real-time backend engine*
+
+Scalable microservices ecosystem designed for real-time sports odds ingestion and transactional integrity.
+* Event-driven architecture streaming live sports feeds via **Apache Kafka** pipelines.
+* ACID-compliant wallet transactions with custom fraud prevention controls.
+* High-concurrency microservices written in **Golang** with low-latency caching on **Redis**.
+
+`Golang` · `Apache Kafka` · `PostgreSQL` · `Redis`
+
+[**View Repository →**](https://github.com/Ankitrewar11)
+
+---
+
+#### 🍸 Drinked App
+> *Location-aware social discovery network*
+
+Mobile platform providing real-time feeds, event management, and geo-proximity search.
+* Cross-platform mobile client engineered with **React Native**.
+* Geo-spatial indexing and proximity-based query evaluation in **MongoDB**.
+* Real-time feed generation and event synchronization powered by **WebSockets**.
+
+`React Native` · `Node.js` · `MongoDB` · `WebSockets`
+
+[**View Repository →**](https://github.com/Ankitrewar11)
+
+---
+
+#### 🎯 Smart Attendance System
+> *Biometric identification with analytical risk forecasting*
+
+Computer vision platform engineered for real-time facial recognition attendance logging paired with an analytics dashboard for detecting at-risk students early.
+* High-performance computer vision pipeline using **FastAPI** and **OpenCV**.
+* Interactive dashboard for institutional reporting and automated alert management built on **React.js**.
+
+`FastAPI` · `Python` · `OpenCV` · `React.js`
+
+[**View Repository →**](https://github.com/Ankitrewar11)
 
 ---
 
@@ -166,11 +152,11 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitrewar&theme=flat&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankitrewar11&theme=tokyonight&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
 
   <br /><br />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ankitrewar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrewar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ankitrewar11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitrewar11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
