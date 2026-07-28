@@ -55,31 +55,44 @@
 
 <div align="center">
 
-  <!-- Core Icons Grid -->
+  <!-- Live Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=System+Design+%26+Distributed+Systems;Golang+%7C+TypeScript+%7C+Python;Next.js+%7C+React+%7C+Tailwind+CSS;Docker+%7C+Kubernetes+%7C+Terraform;RAG+Pipelines+%26+AI+Agents;Apache+Kafka+%7C+Redis+%7C+PostgreSQL" alt="Animated Typing Tech Stack" />
+
+  <br/><br/>
+
+  <!-- Static Icons Grid -->
   <img src="https://skillicons.dev/icons?i=go,ts,js,py,cpp,java,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,aws,gcp,terraform,nextjs,react,tailwind,nodejs,express,graphql&perline=11" alt="Tech Stack Icons" />
 
   <br/><br/>
 
-  <!-- Architecture & Infrastructure Badges -->
+<!-- Architecture & Infrastructure Badges -->
   <sub><b>ARCHITECTURE & INFRASTRUCTURE</b></sub>
   <br/><br/>
-  <img src="https://img.shields.io/badge/System_Design_(HLD%2FLLD)-00599C?style=flat-square&logo=architecture&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/tRPC-2563EB?style=flat-square&logo=trpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-
+  <!-- Live Typing Skill Line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=System+Design+(HLD%2FLLD)+%E2%80%A2+Microservices;gRPC+%E2%80%A2+tRPC+%E2%80%A2+CI%2FCD+Pipelines" alt="Architecture Skill Typing" />
   <br/><br/>
+  <!-- Extra Large Badges -->
+  <img height="36" src="https://img.shields.io/badge/System_Design_(HLD%2FLLD)-00599C?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img height="36" src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge" />
+  <img height="36" src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img height="36" src="https://img.shields.io/badge/tRPC-2563EB?style=for-the-badge&logo=trpc&logoColor=white" />
+  <img height="36" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+  <br/><br/><br/>
 
   <!-- Generative AI & Vector Systems Badges -->
   <sub><b>GENERATIVE AI & VECTOR SYSTEMS</b></sub>
   <br/><br/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-121011?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector_DBs-132A4A?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <!-- Live Typing Skill Line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=RAG+Pipelines+%E2%80%A2+Autonomous+AI+Agents;LangChain+%E2%80%A2+LlamaIndex+%E2%80%A2+Vector+DBs" alt="GenAI Skill Typing" />
+  <br/><br/>
+  <!-- Extra Large Badges -->
+  <img height="36" src="https://img.shields.io/badge/RAG_Pipelines-121011?style=for-the-badge" />
+  <img height="36" src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" />
+  <img height="36" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img height="36" src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" />
+  <img height="36" src="https://img.shields.io/badge/Vector_DBs-132A4A?style=for-the-badge" />
+  <img height="36" src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
