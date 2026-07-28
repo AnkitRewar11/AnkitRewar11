@@ -87,11 +87,15 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankitrewar11&theme=tokyonight&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+  <!-- Streak Stats -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitrewar11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Language Summary Card -->
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankitrewar11&theme=2077" alt="Top Languages" />
 
-  <br /><br />
+  <br/><br/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ankitrewar11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitrewar11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Full Contribution Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitrewar11&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
