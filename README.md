@@ -31,7 +31,7 @@
 
 * 🏗️ **Distributed Systems**: Design and ship scalable systems end-to-end from HLD/LLD decisions to production deployment.
 * 🔭 **Currently Building**: Enterprise IoT platform with event-driven microservices at **DSTP Technology**.
-* 🧠 **Deep Focus**: Generative AI integration — RAG pipelines, AI agents, and vector-search-backed architectures.
+* 🧠 **Deep Focus**: Generative AI integration RAG pipelines, AI agents, and vector-search-backed architectures.
 * 🌐 **CNCF Open Source**: Active contributor (**Layer5 / Meshery**), working at the intersection of infrastructure and product.
 * 🌱 **Sharpening**: High-concurrency system design, multi-agent orchestration, and advanced multi-cloud cost optimization.
 * 🤝 **Open to Collaborate**: Microservices architecture, RAG/LLM products, and CNCF ecosystem projects.
