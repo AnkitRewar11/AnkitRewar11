@@ -31,7 +31,7 @@
 
 * 🏗️ **Distributed Systems**: Design and ship scalable systems end-to-end from HLD/LLD decisions to production deployment.
 * 🔭 **Currently Building**: Enterprise IoT platform with event-driven microservices at **DSTP Technology**.
-* 🧠 **Deep Focus**: Generative AI integration RAG pipelines, AI agents, and vector-search-backed architectures.
+* 🧠 **Deep Focus**: Generative AI integration — RAG pipelines, AI agents, and vector-search-backed architectures.
 * 🌐 **CNCF Open Source**: Active contributor (**Layer5 / Meshery**), working at the intersection of infrastructure and product.
 * 🌱 **Sharpening**: High-concurrency system design, multi-agent orchestration, and advanced multi-cloud cost optimization.
 * 🤝 **Open to Collaborate**: Microservices architecture, RAG/LLM products, and CNCF ecosystem projects.
@@ -56,13 +56,11 @@
 <div align="center">
 
   <!-- Core Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,py,cpp,java,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,aws,gcp,terraform,nextjs,react,tailwind,nodejs,express,graphql&perline=11" alt="Tech Stack Icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,py,cpp,java,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,aws,gcp,terraform,nextjs,react,tailwind,nodejs,express,graphql&perline=11" alt="Tech Stack Icons" />
 
   <br/><br/>
 
-<!-- Architecture & Infrastructure Badges -->
+  <!-- Architecture & Infrastructure Badges -->
   <sub><b>ARCHITECTURE & INFRASTRUCTURE</b></sub>
   <br/><br/>
   <img src="https://img.shields.io/badge/System_Design_(HLD%2FLLD)-00599C?style=flat-square&logo=architecture&logoColor=white" />
