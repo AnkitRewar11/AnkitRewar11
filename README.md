@@ -49,15 +49,6 @@
   <sub><b>Certified Meshery Contributor (Layer5 / CNCF)</b></sub>
 </div>
 
-<div>
-  <a href="https://cloud.layer5.io/user/b8bf3050-14a6-45ab-a7e8-963975882165?tab=badges&badge=first-design" alt="First Design" >
-    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
-      alt="First Design" />
-  </a>
-  <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
-</div>
-
 ---
 
 ### 💻 Tech Stack
