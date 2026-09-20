@@ -45,8 +45,14 @@
   <a href="https://cloud.layer5.io/user/b8bf3050-14a6-45ab-a7e8-963975882165?tab=badges&badge=certified-meshery-contributor">
     <img width="160px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.layer5.io/user/b8bf3050-14a6-45ab-a7e8-963975882165?tab=badges&badge=first-design">
+    <img width="160px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
+  </a>
   <br />
   <sub><b>Certified Meshery Contributor (Layer5 / CNCF)</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>First Design (Layer5)</b></sub>
 </div>
 
 ---
