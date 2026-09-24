@@ -58,7 +58,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>First Design (Layer5)</b></sub>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Code Cleanup Crew (Layer5)</b></sub>
+  <sub><b>Code Cleanup Crew (Layer5/Meshery)</b></sub>
 </div>
 
 ---
