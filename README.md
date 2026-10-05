@@ -108,4 +108,5 @@
 
 </div>
   <br/><br/>
+<img src="https://hits.sh/github.com/AnkitRewar11.svg?style=for-the-badge&color=38BDF8&label=Profile+Views" alt="Profile Views" />
 </div>
