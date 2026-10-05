@@ -121,6 +121,6 @@
   <br/><br/>
 
   <!-- Full Contribution Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitrewar11&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitRewar11&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
