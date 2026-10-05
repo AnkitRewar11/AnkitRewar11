@@ -119,8 +119,4 @@
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankitrewar11&theme=2077" alt="Top Languages" />
 
   <br/><br/>
-
-  <!-- Full Contribution Activity Graph -->
-  <img width="100%" src="https://ghchart.rshah.org/38BDF8/AnkitRewar11" alt="Contribution Chart" />
-
 </div>
