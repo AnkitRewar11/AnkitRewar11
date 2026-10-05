@@ -107,16 +107,5 @@
   <img height="36" src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-  <!-- Streak Stats -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitrewar11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- Language Summary Card -->
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankitrewar11&theme=2077" alt="Top Languages" />
-
   <br/><br/>
 </div>
